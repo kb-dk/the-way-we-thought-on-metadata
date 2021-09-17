@@ -13,7 +13,7 @@ related to each other and how they help users find relevant
 information.
 
 
-|Content       |Intellectual Property  | Instantiation |
+|[Content](content/README.md)|[Intellectual Property](intellectual-property/README.md)|[Instantiation](instantion/README.md)|
 | ------------ |:--------------------- |:------------- |
 | Title        | Creator               | Date          |
 | Subject      | Publisher             | Format        |
@@ -24,10 +24,11 @@ information.
 | Coverage     |
 
 
-Lagoze, Carl (1997) From Static to Dynamic Surrogates: Resource Discovery in the Digital Age -
+Lagoze, Carl (1997) From Static to Dynamic Surrogates: Resource Discovery in the Digital Age - *DLib Magazine* 
 http://www.dlib.org/dlib/june97/06lagoze.html
 
-Weibel, S., J. Kunze, C. Lagoze and M. Wolf (1998) Dublin Core Metadata for Resource Discovery. [RFC2413](https://datatracker.ietf.org/doc/html/rfc2413)
+Weibel, S., J. Kunze, C. Lagoze and M. Wolf (1998) Dublin Core Metadata for Resource Discovery. RFC2413 -
+https://datatracker.ietf.org/doc/html/rfc2413
                                                    
 
 
