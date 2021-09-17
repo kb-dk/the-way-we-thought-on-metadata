@@ -15,13 +15,13 @@ information.
 
 |[Content](content/README.md)|[Intellectual Property](intellectual-property/README.md)|[Instantiation](instantiation/README.md)|
 | ------------ |:--------------------- |:------------- |
-| [Content](content/README.md#Title)| Creator               | Date          |
-| Subject      | Publisher             | Format        |
-| Description  | Contributor           | Identifier    |
-| Type         | Rights                | Language      |
-| Source       |
-| Relation     |
-| Coverage     |
+| [Title](content/README.md#Title)|[Creator](intellectual-property/README.md#reator)| Date          |
+| [Subject](content/README.md#Subject)|[Publisher](intellectual-property/README.md#Publisher)| Format        |
+| [Description](content/README.md#Description)|[Contributor](intellectual-property/README.md#Contributor)| Identifier    |
+| [Type](content/README.md#Type)|[Rights](intellectual-property/README.md#Rights)| Language      |
+| [Source](content/README.md#Source)|
+| [Relation](content/README.md#Relation)|
+| [Coverage](content/README.md#Coverage)|
 
 
 Lagoze, Carl (1997) From Static to Dynamic Surrogates: Resource Discovery in the Digital Age - *DLib Magazine* 
