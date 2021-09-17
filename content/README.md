@@ -5,7 +5,9 @@
 Titel, Title
 
 Transcribed title
+
 Alternative title
+
 Subtitle
 
 ## Subject
