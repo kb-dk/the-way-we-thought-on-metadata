@@ -7,11 +7,13 @@ I use past tense *thought* rather than *think* since I hope this will
 help us reuse data, their metadata, created in the past. Hence, to
 understand we need to we reasoned then.
 
-The table below is from Weibel et al (1998). This is from RFC2413. The
-later versions omits this table which shows how metadata elements are
-related to each other and how they help users find relevant
-information.
+The element I refer to is not an element as in an XML element or a SQL
+column. It is the semantics.
 
+The table below is from Weibel et al (1998). This is the fifteen DCMI
+elements from RFC2413. The later versions omits this table which shows
+how metadata elements are related to each other and how they help
+users find relevant information.
 
 |[Content](content/README.md)|[Intellectual Property](intellectual-property/README.md)|[Instantiation](instantiation/README.md)|
 | ------------ |:--------------------- |:------------- |
@@ -23,11 +25,33 @@ information.
 | [Relation](content/README.md#relation)|
 | [Coverage](content/README.md#coverage)|
 
+This text follow the vocabulary of Powell et al (2007) in the DCMI
+Abstract Model which is inspired by the RDF way. I think in that way,
+but I have to confess that I have never implemented RDF the past
+twenty years (I used RDF when it was new late in 1990ties and my
+conclusion was that it is the best way to envision a metadata system,
+as tool for stringent thinking. I felt that it is far too complicated
+for using at a practical level.)
 
-Lagoze, Carl (1997) From Static to Dynamic Surrogates: Resource Discovery in the Digital Age - *DLib Magazine* 
+The metadata elements used for discovery are a part of a service user
+interface. The *description set*s are usually what is presented to a
+user at search time. They comprises multiple property-value pairs that
+together forms a surrogate to the user which is what he or she can use
+for evaluating or assessing a resource suitability. Lagoze (1997)
+gives a discussion of how the role of the *description set* at the
+cognitive level in information retrieval.
+
+## References
+
+Klyne, Graham and Jeremy Carroll, editors (2004). Resource Description Framework: Concepts and Abstract Syntax. W3C Recommendation. -
+ http://www.w3.org/TR/rdf-concepts/
+
+Lagoze, Carl (1997). From Static to Dynamic Surrogates: Resource Discovery in the Digital Age - *DLib Magazine* -
 http://www.dlib.org/dlib/june97/06lagoze.html
 
-Weibel, S., J. Kunze, C. Lagoze and M. Wolf (1998) Dublin Core Metadata for Resource Discovery. RFC2413 -
+Powell, Andy, Mikael Nilsson, Ambjörn Naeve, Pete Johnston and Tom Baker (2007). DCMI Abstract Model - https://www.dublincore.org/specifications/dublin-core/abstract-model/
+
+Weibel, S., J. Kunze, C. Lagoze and M. Wolf (1998). Dublin Core Metadata for Resource Discovery. RFC2413 -
 https://datatracker.ietf.org/doc/html/rfc2413
                                                    
 
