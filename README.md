@@ -13,9 +13,9 @@ related to each other and how they help users find relevant
 information.
 
 
-|[Content](content/README.md)|[Intellectual Property](intellectual-property/README.md)|[Instantiation](instantion/README.md)|
+|[Content](content/README.md)|[Intellectual Property](intellectual-property/README.md)|[Instantiation](instantiation/README.md)|
 | ------------ |:--------------------- |:------------- |
-| Title        | Creator               | Date          |
+| [Content](content/README.md#Title)| Creator               | Date          |
 | Subject      | Publisher             | Format        |
 | Description  | Contributor           | Identifier    |
 | Type         | Rights                | Language      |
