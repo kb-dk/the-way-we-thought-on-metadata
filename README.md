@@ -15,13 +15,13 @@ information.
 
 |[Content](content/README.md)|[Intellectual Property](intellectual-property/README.md)|[Instantiation](instantiation/README.md)|
 | ------------ |:--------------------- |:------------- |
-| [Title](content/README.md#Title)|[Creator](intellectual-property/README.md#reator)| Date          |
-| [Subject](content/README.md#Subject)|[Publisher](intellectual-property/README.md#Publisher)| Format        |
-| [Description](content/README.md#Description)|[Contributor](intellectual-property/README.md#Contributor)| Identifier    |
-| [Type](content/README.md#Type)|[Rights](intellectual-property/README.md#Rights)| Language      |
-| [Source](content/README.md#Source)|
-| [Relation](content/README.md#Relation)|
-| [Coverage](content/README.md#Coverage)|
+| [Title](content/README.md#title)|[Creator](intellectual-property/README.md#creator)|[Date](instantiation/README.md#date)|
+| [Subject](content/README.md#subject)|[Publisher](intellectual-property/README.md#publisher)|[Format](instantiation/README.md#format)|
+| [Description](content/README.md#description)|[Contributor](intellectual-property/README.md#contributor)|[Identifier](instantiation/README.md#identifier)    |
+| [Type](content/README.md#type)|[Rights](intellectual-property/README.md#rights)|[Language](instantiation/README.md#language)|
+| [Source](content/README.md#source)|
+| [Relation](content/README.md#relation)|
+| [Coverage](content/README.md#coverage)|
 
 
 Lagoze, Carl (1997) From Static to Dynamic Surrogates: Resource Discovery in the Digital Age - *DLib Magazine* 
