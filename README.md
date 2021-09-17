@@ -34,12 +34,16 @@ a tool for stringent thinking. However, I felt that it is far too complicated
 for using at a practical level.)
 
 The metadata elements used for discovery are a part of a service user
-interface. The *description set*s are usually what is presented to a
-user at search time. They comprises multiple property-value pairs that
-together forms a surrogate to the user which is what he or she can use
-for evaluating or assessing a resource's suitability. Lagoze (1997)
-gives a discussion of how the role of the *description set* at the
-cognitive level in information retrieval.
+interface. Lagoze (1997) gives a discussion of how the role of the
+*description set* at the cognitive level in information retrieval. The
+*description set*s are usually what is presented to a user at search
+time in the result set. These sets comprises multiple property-value
+pairs that together form a surrogate to the user which is what he or
+she can use for evaluating or assessing a resource's suitability. The
+task for the user is to evaluate query agains the result set,
+candidate description sets and finally retrieve the resource.
+
+
 
 ## References
 
