@@ -30,14 +30,14 @@ Abstract Model which is inspired by the RDF way. I think in that way,
 but I have to confess that I have never implemented RDF the past
 twenty years (I used RDF when it was new late in 1990ties and my
 conclusion was that it is the best way to envision a metadata system,
-as tool for stringent thinking. I felt that it is far too complicated
+a tool for stringent thinking. However, I felt that it is far too complicated
 for using at a practical level.)
 
 The metadata elements used for discovery are a part of a service user
 interface. The *description set*s are usually what is presented to a
 user at search time. They comprises multiple property-value pairs that
 together forms a surrogate to the user which is what he or she can use
-for evaluating or assessing a resource suitability. Lagoze (1997)
+for evaluating or assessing a resource's suitability. Lagoze (1997)
 gives a discussion of how the role of the *description set* at the
 cognitive level in information retrieval.
 
