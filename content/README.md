@@ -30,6 +30,11 @@ Bygningsnavn
 
 ## Description
 ## Type
+
+Manuscript
+
+
+
 ## Source
 ## Relation
 ## Coverage
