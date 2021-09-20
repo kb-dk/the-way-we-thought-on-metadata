@@ -47,6 +47,8 @@ candidate description sets and finally retrieve the resource.
 
 ## References
 
+DCMI Usage Board (2020). DCMI Metadata Terms  - https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+
 Klyne, Graham and Jeremy Carroll, editors (2004). Resource Description Framework: Concepts and Abstract Syntax. W3C Recommendation. -
  http://www.w3.org/TR/rdf-concepts/
 
