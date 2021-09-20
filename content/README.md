@@ -12,21 +12,40 @@ Subtitle
 
 ## Subject
 
-Category, Subject, Keywords
+### Geographic Subjects
 
-Bygningsnavn
+```    
+	<md:subject xml:lang="da">
+      <md:hierarchicalGeographic>
+        <md:area areaType="area" displayLabel="lokalitet">Kallerup</md:area>
+        <md:area areaType="cadastre" displayLabel="matrikelnummer">Kallerup By</md:area>
+        <md:area areaType="parish" displayLabel="sogn">Kallerup</md:area>
+        <md:citySection citySectionType="zipcode" displayLabel="postnummer">7700</md:citySection>
+        <md:citySection citySectionType="housenumber" displayLabel="husnummer">8</md:citySection>
+        <md:citySection citySectionType="street" displayLabel="vejnavn">Kallerupvadested</md:citySection>
+        <md:city>Thisted</md:city>
+      </md:hierarchicalGeographic>
+    </md:subject>
+```
 
-LCSH
+### Coordinates
 
-Motiv
+```
+	<md:subject>
+      <md:cartographics>
+        <md:coordinates>56.913092436935194,8.57781772576134</md:coordinates>
+      </md:cartographics>
+    </md:subject>
+```
 
-Person
 
-Lokalitet
-
-Georeference (Scale)
-
-Bygningsnavn
+* Motiv
+* Person
+* Lokalitet
+* Georeference (Scale)
+* Bygningsnavn
+* Category, Subject, Keywords
+* LCSH
 
 ## Description
 ## Type
@@ -37,17 +56,17 @@ Bygningsnavn
 | Manuscript |
 | Collection | [DCMI Type: Collection](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Collection) |
 | DataSet | [DCMI Type: Dataset](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Dataset) | software AND database |
-| Service | software AND online system or service |
-| Software | software |
-| Image | cartographic material |
-| InteractiveResource | multimedia |
-| MovingImage | moving image |
-| PhysicalObject | three-dimensional object |
-| Sound | sound recording |
-| Image | still image |
-| Text | text
-| Text | notated music |
-| map | Kort |
+| Service | [DCMI Type: Dataset](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Service) | software AND online system or service |
+| Software | [DCMI Type: Dataset](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Software)  | software |
+| Image | | cartographic material |
+| InteractiveResource | | multimedia |
+| MovingImage | | moving image |
+| PhysicalObject | | three-dimensional object |
+| Sound | | sound recording |
+| Image | | still image |
+| Text | | text
+| Text | | notated music |
+| map | | Kort |
 
 ## Source
 ## Relation
