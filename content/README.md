@@ -14,8 +14,8 @@ Subtitle
 
 ### Geographic Subjects
 
-```    
-	<md:subject xml:lang="da">
+```  
+   <md:subject xml:lang="da">
       <md:hierarchicalGeographic>
         <md:area areaType="area" displayLabel="lokalitet">Kallerup</md:area>
         <md:area areaType="cadastre" displayLabel="matrikelnummer">Kallerup By</md:area>
@@ -31,7 +31,7 @@ Subtitle
 ### Coordinates
 
 ```
-	<md:subject>
+   <md:subject>
       <md:cartographics>
         <md:coordinates>56.913092436935194,8.57781772576134</md:coordinates>
       </md:cartographics>
