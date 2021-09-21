@@ -52,9 +52,9 @@ Subtitle
 
 
 | Type | Value source | COP/Mods | Definition |
-|:----|:--|:-------|
+|:-----|:-------------|:---------|:-----------|
 | Manuscript | | | |
-| Collection | [DCMI Type: Collection](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Collection) | ["A made-up multipart group of items that were not originally published, distributed, or produced together"](https://www.loc.gov/standards/mods/userguide/typeofresource.html#collection) &lt;typeOfResource collection="yes">still image&lt;/typeOfResource> |
+| Collection | [DCMI Type: Collection](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Collection) | &lt;typeOfResource collection="yes">still image&lt;/typeOfResource> | ["A made-up multipart group of items that were not originally published, distributed, or produced together"](https://www.loc.gov/standards/mods/userguide/typeofresource.html#collection) |
 | DataSet | [DCMI Type: Dataset](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Dataset) | software AND database |
 | Service | [DCMI Type: Dataset](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Service) | software AND online system or service |
 | Software | [DCMI Type: Dataset](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Software)  | software |
