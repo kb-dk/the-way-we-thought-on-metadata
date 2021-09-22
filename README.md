@@ -11,6 +11,15 @@ we need to understand how we reasoned then.
 The element I refer to is not an element as in an XML element or a SQL
 column. It is the semantics.
 
+Having said that, whenever I have started to figure out how we did
+with an element, I run into the questions:
+
+ **How did we store that in the databases**
+ **How did the curators create those data**
+ **How did we index them for the users**
+ 
+## base metadata categories and semantics
+
 The table below is from Weibel et al (1998). This is the fifteen DCMI
 elements from RFC2413. The later versions omits this table which shows
 how metadata elements are related to each other and how they help
