@@ -3,9 +3,10 @@
 A catalogue of metadata elements used in a number of services, and the
 *how*s and the *why*s behind them.
 
-I use past tense *thought* rather than *think* since I hope this will
-help us reuse data, their metadata, created in the past. Hence, to
-understand we need to we reasoned then.
+I use past tense *thought* rather than *think* since the thinking
+actually took place about a decade ago. I hope these docs will make
+reuse of metadata and content, created in the past, easier. Basically
+we need to understand how we reasoned then.
 
 The element I refer to is not an element as in an XML element or a SQL
 column. It is the semantics.
