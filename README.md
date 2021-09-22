@@ -12,11 +12,11 @@ The element I refer to is not an element as in an XML element or a SQL
 column. It is the semantics.
 
 Having said that, whenever I have started to figure out how we did
-with an element, I run into the questions:
+with an element, I run into three questions:
 
- **How did we store that in the databases**
- **How did the curators create those data**
- **How did we index them for the users**
+1. **How did we store that in the databases**
+2. **How did the curators create those data**
+3. **How did we index them for the users**
  
 ## base metadata categories and semantics
 
