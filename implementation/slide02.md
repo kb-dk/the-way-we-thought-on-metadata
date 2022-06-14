@@ -2,7 +2,7 @@
 # Metadata is a the annotation of a link (ii)
 
 * Metadata is the data enabling a user to decide if link is worth following
-* Metadata is a narrative provided by an agent  about a link (software or human)
+* Metadata is a narrative provided by an agent (software or human) about a link
 * Metadata is an information provider's attempt to provide information for users and is specific for each resource characteristics and each user group's needs.
 
 * Metadata should be possible to (re)use anywhere
