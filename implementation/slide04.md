@@ -12,3 +12,4 @@
 * misc https://github.com/kb-dk?q=Cumulus+&type=all&language=&sort=
   * https://github.com/kb-dk/KB-Cumulus-API
   * https://github.com/kb-dk/AIM2 (https://sbprojects.statsbiblioteket.dk/display/AIM/Setup)
+  * https://github.com/kb-dk/ccs
