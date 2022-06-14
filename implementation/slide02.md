@@ -8,7 +8,7 @@
 * Metadata should be possible to (re)use anywhere
 
 * A link is a name that a some user want to use. The **usability** of a link (i.e., resource) is in the eye of the library patron, just like _beauty is in the eye of the beholder_. A library, by the way, is an organisation that persists links and the corresponding resources users might want to retrieve to in the future.
-  * I.e., if i find something i would like to quote or refer to, I should be able to link and annotate it and that anchor should be persistent.
+  * I.e., if i find something i would like to quote or refer to, I should be able to link and annotate it and  users of what I've created should be able to find what I link to.
 * A library which decides in advance what links should be possible to use in the future is, at its best, old-fashioned and thinking about its resources as physical books, or at its worst actually censoring its users. 
 * I am aware that my opinions on Digital Libraries are not shared by very many
 
