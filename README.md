@@ -25,6 +25,10 @@ elements from RFC2413. The later versions omits this table which shows
 how metadata elements are related to each other and how they help
 users find relevant information.
 
+The three headers, Content, Intellectual Property and Instantiation
+refer to the abstract work themselves, their creators and owners and
+manifestations, respectively.
+
 |[Content](content/README.md)|[Intellectual Property](intellectual-property/README.md)|[Instantiation](instantiation/README.md)|
 | ------------ |:--------------------- |:------------- |
 | [Title](content/README.md#title)|[Creator](intellectual-property/README.md#creator)|[Date](instantiation/README.md#date)|
@@ -44,15 +48,18 @@ a tool for stringent thinking. However, I felt that it is far too complicated
 for using at a practical level.)
 
 The metadata elements used for discovery are a part of a service user
-interface. Lagoze (1997) gives a discussion of how the role of the
-*description set* at the cognitive level in information retrieval. The
-*description set*s are usually what is presented to a user at search
-time in the result set. These sets comprises multiple property-value
-pairs that together form a surrogate to the user which is what he or
-she can use for evaluating or assessing a resource's suitability. The
-task for the user is to evaluate query agains the result set,
-candidate description sets and finally retrieve the resource.
+interface. The user queries the data, a search engine returns metadata
+that are *similar* to the query. The user analyse representations of
+the metadata description sets as surrogates for the actual
+content. I.e., (s)he try to find candidate description sets before
+actually retrieving the resource.
 
+Lagoze (1997) gives a discussion of how the role of the *description
+set* at the cognitive level in information retrieval.  *Description
+sets* are what is presented to a user in the result set in the process
+of resource discovery. The sets comprises multiple property-value
+pairs that together form a surrogate to the user which is what he or
+she can use for evaluating or assessing a resource's suitability.
 
 
 ## References

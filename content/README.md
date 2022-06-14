@@ -29,29 +29,34 @@ Subtitle
 ### Geographic Subjects
 
 ```  
-   <md:subject xml:lang="da">
-      <md:hierarchicalGeographic>
-        <md:area areaType="area" displayLabel="lokalitet">Kallerup</md:area>
-        <md:area areaType="cadastre" displayLabel="matrikelnummer">Kallerup By</md:area>
-        <md:area areaType="parish" displayLabel="sogn">Kallerup</md:area>
-        <md:citySection citySectionType="zipcode" displayLabel="postnummer">7700</md:citySection>
-        <md:citySection citySectionType="housenumber" displayLabel="husnummer">8</md:citySection>
-        <md:citySection citySectionType="street" displayLabel="vejnavn">Kallerupvadested</md:citySection>
-        <md:city>Thisted</md:city>
-      </md:hierarchicalGeographic>
-    </md:subject>
+ <md:subject xml:lang="da">
+          <md:hierarchicalGeographic>
+            <md:area areaType="area" displayLabel="lokalitet">Langsted</md:area>
+            <md:area areaType="cadastre" displayLabel="matrikelnummer">8g, Langsted By, Verninge</md:area>
+            <md:area areaType="parish" displayLabel="sogn">Verninge</md:area>
+            <md:area areaType="building" displayLabel="Bygningsnavn">Overgaard</md:area>
+            <md:citySection citySectionType="zipcode" displayLabel="postnummer">5690</md:citySection>
+            <md:citySection citySectionType="housenumber" displayLabel="husnummer">11</md:citySection>
+            <md:citySection citySectionType="street" displayLabel="vejnavn">Højrupgyden</md:citySection>
+            <md:city>Tommerup</md:city>
+          </md:hierarchicalGeographic>
+        </md:subject>
+
 ```
+
+http://www5.kb.dk/danmarksetfraluften/images/luftfo/2011/maj/luftfoto/object182167
 
 ### Coordinates
 
 ```
    <md:subject>
       <md:cartographics>
-        <md:coordinates>56.913092436935194,8.57781772576134</md:coordinates>
+         <md:coordinates>55.275717356209235,10.177609938685725</md:coordinates>
       </md:cartographics>
-    </md:subject>
-```
+   <md:subject>
 
+```
+http://www5.kb.dk/danmarksetfraluften/images/luftfo/2011/maj/luftfoto/object182167
 
 * Motiv
 * Person
